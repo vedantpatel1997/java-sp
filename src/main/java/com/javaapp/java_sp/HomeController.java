@@ -8,6 +8,6 @@ public class HomeController {
     
     @RequestMapping("/") // Maps the root URL to this method
     public String hello() {
-        return "Hello, Vedant Patel 1.1!";
+        return "Hello, Vedant Patel 1.2!";
     }
 }
