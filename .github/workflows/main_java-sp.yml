@@ -60,4 +60,5 @@ jobs:
           app-name: 'JAVA-SP'
           slot-name: 'Production'
           package: '*.jar'
+          clean: true
           
